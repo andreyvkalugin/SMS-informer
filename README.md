@@ -1,2 +1,2 @@
 # plant-Equipment
-The usefull tool for plant equipment menegment
+The usefull tool for plant equipment manegment
